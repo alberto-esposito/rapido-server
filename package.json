@@ -1,0 +1,10 @@
+{
+  "name": "rapido-server",
+  "version": "0.0.1",
+  "description": "A node http/2 server for the rapido stack",
+  "main": "index.js",
+  "repository": "git@github.com:alberto-esposito/rapido-server.git",
+  "author": "alberto-esposito <alberto.websci@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
